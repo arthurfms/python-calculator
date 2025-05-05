@@ -1,0 +1,14 @@
+{
+   "logs": [
+      {
+         "date": "2025-05-5",
+         "time": "10:13:20",
+         "user": "Example User",
+         "operation": "Multiply",
+         "first number": 15.0,
+         "second number": 35.0,
+         "result": 525.0,
+         "comment": "This is an example comment"
+      }
+   ]
+}
