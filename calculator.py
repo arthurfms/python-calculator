@@ -81,7 +81,6 @@ def print_log(path):
     for row in log_row:
         try:
             cols = row.split(',')
-            print(cols)
             comment = ''
             for col in cols[7:len(cols)]:
                 comment += col
